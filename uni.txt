@@ -22,4 +22,54 @@
       "installedTimestamp": 1690898148573,
       "preRelease": false
     }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.isort",
+      "uuid": "4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff"
+    },
+    "version": "2023.10.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\ajink\\.vscode\\extensions\\ms-python.isort-2023.10.1",
+      "_sep": 1,
+      "path": "/c:/Users/ajink/.vscode/extensions/ms-python.isort-2023.10.1",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1690898155876,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-pylance",
+      "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+    },
+    "version": "2023.5.30",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\ajink\\.vscode\\extensions\\ms-python.vscode-pylance-2023.5.30",
+      "_sep": 1,
+      "path": "/c:/Users/ajink/.vscode/extensions/ms-python.vscode-pylance-2023.5.30",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1690898923214,
+      "preRelease": false
+    }
   }
