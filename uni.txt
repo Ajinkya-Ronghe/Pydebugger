@@ -1,28 +1,4 @@
-{
-    "identifier": {
-      "id": "ms-python.python",
-      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
-    },
-    "version": "2022.20.2",
-    "location": {
-      "$mid": 1,
-      "fsPath": "c:\\Users\\ajink\\.vscode\\extensions\\ms-python.python-2022.20.2",
-      "_sep": 1,
-      "path": "/c:/Users/ajink/.vscode/extensions/ms-python.python-2022.20.2",
-      "scheme": "file"
-    },
-    "metadata": {
-      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
-      "publisherDisplayName": "Microsoft",
-      "targetPlatform": "undefined",
-      "isApplicationScoped": false,
-      "updated": false,
-      "isPreReleaseVersion": false,
-      "installedTimestamp": 1690898148573,
-      "preRelease": false
-    }
-  },
+{"identifier":{"id":"ms-python.python","uuid":"f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"},"version":"2022.8.0","location":{"$mid":1,"fsPath":"c:\\Users\\ajink\\.vscode\\extensions\\ms-python.python-2022.8.0","_sep":1,"path":"/c:/Users/ajink/.vscode/extensions/ms-python.python-2022.8.0","scheme":"file"},"metadata":{"id":"f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5","publisherId":"998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8","publisherDisplayName":"Microsoft","targetPlatform":"undefined","isApplicationScoped":false,"updated":true,"isPreReleaseVersion":false,"installedTimestamp":1690914504619,"preRelease":false}},
   {
     "identifier": {
       "id": "ms-python.isort",
